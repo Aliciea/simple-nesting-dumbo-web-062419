@@ -100,7 +100,7 @@ def changing_alan
         :dennis_ritchie => {
           :known_for => "Unix",
           :languages => ["C"]
-        }
+        },
      
      changing_alan[:programmer_hash][:alan_kay] = "alans_new_info" 
      :alans_new_info => {
