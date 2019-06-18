@@ -31,7 +31,7 @@ def alan_kay_is_known_for
         :alan_kay => {
          :known_for => "Object Orientation"
           :languages => ["Smalltalk", "LISP"]
-		    },   
+		    }   
         :dennis_ritchie => {
           :known_for => "Unix",
           :languages => ["C"]
@@ -102,7 +102,7 @@ def changing_alan
           :languages => ["C"]
         }
      }
-     changing_alan[:programmer_hash][:alan_kay] = "alans_new_info"
+     changing_alan[:programmer_hash][:alan_kay] = "alans_new_info" 
      #change what Alan Kay is :known_for to the value of the alans_new_info variable. 
      alans_new_info = "GUI"
      
